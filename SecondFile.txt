@@ -1,6 +1,6 @@
 Hi Everyone,
 
-This is my second file creating from Git.
+This is my second file creating from Git. This file is updated by developer2
 
 Thanks,
 Sailu
