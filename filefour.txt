@@ -1,1 +1,2 @@
-Merging  file  from main branch to dev-branch from git location. adding new comments to see difference.
+Merging  file  from main branch to dev-branch from git location. 
+Adding new comments in main branch.
